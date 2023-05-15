@@ -1,0 +1,38 @@
+body {
+  background-color: cornsilk;
+}
+
+.container {
+  background-color: #fffafa;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 1px solid black;
+}
+
+p {
+  color: #008080;
+  padding-left: 30px;
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  padding-left: 30px;
+}
+
+#data1,
+#data2,
+#data3 {
+  padding-top: 30px;
+}
+
+#lorem1,
+#lorem2,
+#lorem3 {
+  color: black;
+  padding-right: 30px;
+  font-family: "Open Sans", sans-serif;
+}
+#lorem3 {
+  padding-bottom: 30px;
+}
